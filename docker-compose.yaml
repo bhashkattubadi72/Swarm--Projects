@@ -21,7 +21,7 @@ services:
   paytm :
     image: bhashkattubadi72/paym:v4
     ports:
-      - "86:80"
+      - "87:80"
     deploy:
       replicas: 3
 
